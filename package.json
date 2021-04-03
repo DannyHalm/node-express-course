@@ -1,0 +1,23 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "description": "1. Node Tutorial\r 2. Express Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-smilga/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-smilga/node-express-course/issues"
+  },
+  "homepage": "https://github.com/john-smilga/node-express-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
